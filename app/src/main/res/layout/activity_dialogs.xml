@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".Dialogs">
+
+
+    <Button
+        android:id="@+id/bAlert"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ALERT DIALOG" />
+
+    <Button
+        android:id="@+id/dPickerButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DATE PICKER"
+        android:onClick="setDate" />
+
+    <TextView
+        android:id="@+id/dPickerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Date"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/progressDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PROGRESS DIALOG" />
+
+</LinearLayout>

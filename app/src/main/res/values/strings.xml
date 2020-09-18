@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">reubro</string>
+
+    <string-array name="cars">
+        <item>bmw</item>
+        <item>ferrari</item>
+        <item>fiat</item>
+        <item>ford</item>
+        <item>honda</item>
+        <item>hyundai</item>
+        <item>maruti</item>
+        <item>maserati</item>
+        <item>renault</item>
+        <item>toyota</item>
+
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="date_label_set">Press the button to set the date</string>
+    <string name="date_button_set">Set Date</string>
+    <string name="date_view_set">The Date is: </string>
+    <string name="date_selected"></string>
+
+    <string-array name="description">
+        <item>Bayerische Motoren Werke AG, commonly referred to as BMW is a German multinational company which produces luxury vehicles and motorcycles.</item>
+        <item>Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. Founded by Enzo.</item>
+        <item>Fiat Automobiles S.p.A. is an Italian automobile manufacturer, a subsidiary of FCA Italy S.p.A..</item>
+        <item>Ford Motor Company, commonly known as Ford, is an American multinational automaker that has its main headquarters in Dearborn, Michigan.</item>
+        <item>Honda Motor Company, Ltd is a Japanese public multinational conglomerate corporation primarily known as a manufacturer of automobiles.</item>
+        <item>The Hyundai Motor Company, commonly known as Hyundai Motors is a South Korean multinational automotive manufacturer headquartered in Seoul.</item>
+        <item>Maruti Suzuki India Limited, formerly known as Maruti Udyog Limited, is an automobile manufacturer in India.</item>
+        <item>Maserati (Italian: [mazeˈraːti]) is an Italian luxury vehicle manufacturer. Established on 1 December 1914, in Bologna.</item>
+        <item>Groupe Renault is a French multinational automobile manufacturer established in 1899.</item>
+        <item>Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota, Aichi.</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
